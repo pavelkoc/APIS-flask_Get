@@ -11,6 +11,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score
 import joblib
 
+
 app = Flask(__name__)
 CORS(app)
 
