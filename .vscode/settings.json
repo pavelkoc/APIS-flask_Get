@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/795ed4ed-d8b7-4e61-a215-15b536776eea/resourceGroups/APIS/providers/Microsoft.Web/sites/flaskhrm",
+    "appService.deploySubpath": "."
+}
